@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <ctype.h>
 using namespace std;
 
 string clasificar(string a){
