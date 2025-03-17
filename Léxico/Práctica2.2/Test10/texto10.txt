@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int contador = 0;
+    float promedio = 0.0;
+    char letra = 'A';
+    const int MAX = 100;
+
+    for (int i = 0; i < MAX; i++) {
+        promedio += i;
+        contador++;
+    }
+
+    if (promedio > 0) {
+        printf("Promedio: %f\n", promedio / contador);
+    } else {
+        printf("No hay datos.\n");
+    }
+
+    return 0;
+}
