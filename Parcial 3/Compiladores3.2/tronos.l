@@ -51,12 +51,12 @@ int Cersei = 0;
 Westeros {Westeros++; lugares++;}
 Invernalia {Invernalia++; lugares++;}
 Desembarco[ ]del[ ]Rey {Desembarco++; lugares++;}
-Nido[ ]de[ ][¡·Aa]guilas {Nido++; lugares++;}
-Altojard[Ìi]n  {Altojardin++; lugares++;}
+Nido[ ]de[ ][√Å√°Aa]guilas {Nido++; lugares++;}
+Altojard[√≠i]n  {Altojardin++; lugares++;}
 Aguasdulces	{Aguasdulces++; lugares++;}
-Rocadrag[Ûo]n {Rocadragon++; lugares++;}
+Rocadrag[√≥o]n {Rocadragon++; lugares++;}
 Roca[ ][Cc]asterly {Casterly++; lugares++;}
-Basti[Ûo]n[ ]de[ ][Tt]ormentas {Bastion++; lugares++;}
+Basti[√≥o]n[ ]de[ ][Tt]ormentas {Bastion++; lugares++;}
 Dorne {Dorne++; lugares++;}
 
 Stark {Stark++; casas++;}
